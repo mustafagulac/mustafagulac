@@ -49,7 +49,8 @@
 [bootstrap]: https://getbootstrap.com
 [java]: https://www.java.com/tr/
 [unity]: https://unity.com
-[c#]:
+[c#]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
+[html]: https://tr.wikipedia.org/wiki/HTML5
 
 
 <br />
