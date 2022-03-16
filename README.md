@@ -30,7 +30,7 @@
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="Java" width="26px" src="https://www.freelogovectors.net/wp-content/uploads/2022/02/java_powered_logo_freelogovectors.net_.png" />][java]
-[<img align="left" alt="Unity" width="26px" src="https://akademi.bilgeadam.com/wp-content/uploads/2016/03/unity3d.png" />][unity]
+[<img align="left" alt="Unity" width="26px" src="https://www.seekpng.com/png/detail/127-1274498_unity3d-unity-game-engine-logo.png" />][unity]
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/bootstrap/bootstrap.png" />][bootstrap]
 [<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />][c#]
 
