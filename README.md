@@ -49,7 +49,6 @@
 [bootstrap]: https://getbootstrap.com
 [java]: https://www.java.com/tr/
 [unity]: https://unity.com
-[html]:
 [c#]:
 
 
